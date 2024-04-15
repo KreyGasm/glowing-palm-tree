@@ -12,6 +12,6 @@ function uploadVideo() {
 
         videoContainer.appendChild(videoElement);
     } else {
-        alert("Пожалуйста, выберите файл с видео.");
+        alert("Choose ur video please.");
     }
 }
